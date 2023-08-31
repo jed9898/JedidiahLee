@@ -1,2 +1,2 @@
 # JedidiahLee
- STOR320
+ Repository for STOR320
